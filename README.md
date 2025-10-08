@@ -16,7 +16,6 @@ Among all categories, the Classic pizzas stood out — driving the highest sales
 
 When it comes to size, the Large pizzas brought in the highest sales revenue, proving that customers are willing to spend more for value and shareable portions.
 
-💰 Product-Level Insights
 
 ## Diving deeper into product performance:
 
@@ -40,10 +39,10 @@ Through these insights, the business can:
 
 4. Align operations and staffing with customer demand trends.
 
-🧠 Tools & Technologies
+## 🧠 Tools & Technologies
 
 Power BI – for dashboard creation and interactive visuals
 
-Excel / SQL – for data cleaning and preparation
+1. SQL – for data cleaning and preparation
 
-DAX – for advanced calculations and measures      
+2. DAX – for advanced calculations and measures      
