@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Insights Dashboard
 
-In this project, I analyzed a year’s worth of pizza sales data using SQL and Power BI to uncover patterns in customer behavior, seasonal trends, and product performance. I designed SQL queries for data extraction, cleaning, and aggregation, then developed an interactive Power BI dashboard that transformed raw transactional data into actionable business insights.
+In this project, I analyzed a year’s worth of pizza sales data using SQL and Power BI to uncover patterns in customer behavior, seasonal trends, and product performance. I designed SQL queries for data extraction, cleaning, and aggregation then developed an interactive Power BI dashboard that transformed raw transactional data into actionable business insights.
 
 ## 📅 Understanding Customer Behavior by Day
 
