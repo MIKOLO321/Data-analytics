@@ -41,8 +41,8 @@ Through these insights, the business can:
 
 ## 🧠 Tools & Technologies
 
-Power BI – for dashboard creation and interactive visuals
+1. Power BI – for dashboard creation and interactive visuals
 
-1. SQL – for data cleaning and preparation
+2. SQL – for data cleaning and preparation
 
-2. DAX – for advanced calculations and measures      
+3. DAX – for advanced calculations and measures      
