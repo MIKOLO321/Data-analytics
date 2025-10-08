@@ -40,7 +40,7 @@ Interestingly, the Brie Carre Pizza consistently performed well — contributing
 
 5. Align operations and staffing with customer demand trends.
 
-🧠 Tools & Technologies
+## 🧠 Tools & Technologies
 
 Power BI – for dashboard creation and interactive visuals
 
