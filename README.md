@@ -44,6 +44,6 @@ Interestingly, the Brie Carre Pizza consistently performed well — contributing
 
 Power BI – for dashboard creation and interactive visuals
 
-Excel / SQL – for data cleaning and preparation
+SQL – for data cleaning and preparation
 
 DAX – for advanced calculations and measures      
