@@ -25,7 +25,7 @@ When it comes to size, the Large pizzas brought in the highest sales revenue, pr
 
 3. Pepper Salami Pizza received the most orders overall, showing strong demand across customer segments.
 
-4. Interestingly, the Brie Carre Pizza consistently performed well — contributing significantly to revenue, quantity, and total orders — making it a standout performer across all KPIs.
+4.Interestingly, the Brie Carre Pizza consistently demonstrated strong performance, ranking as the top product among the lower five yet contributing significantly to overall revenue, quantity sold, and total orders—making it a notable standout across all key performance indicators.
 
 ## 📊 Business Takeaways
 
