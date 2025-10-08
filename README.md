@@ -4,7 +4,7 @@ In this project, I analyzed a year’s worth of pizza sales data using SQL and P
 
 ## 📅 Understanding Customer Behavior by Day
 
-The analysis revealed that Thursdays, Fridays, and Saturday evenings are the busiest periods for orders. This weekend surge suggests that customers tend to indulge more toward the end of the week — possibly due to social gatherings, leisure time, and a general “weekend treat” mindset. This insight can help the business allocate more staff and optimize promotions during peak hours.
+The analysis revealed that Thursdays, Fridays, and Saturday evenings are the busiest periods for orders. This weekend surge suggests that customers tend to indulge more toward the end of the week, possibly due to social gatherings, leisure time, and a general “weekend treat” mindset. This insight can help the business allocate more staff and optimize promotions during peak hours.
 
 ## 📆 Monthly Sales Trends
 
@@ -45,4 +45,4 @@ Through these insights, the business can:
 
 2. SQL – for data cleaning and preparation
 
-3. DAX – for advanced calculations and measures      
+3. DAX – utilized for creating advanced calculations and performance measures.      
