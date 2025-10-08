@@ -1,4 +1,28 @@
 # 🍕 Pizza Sales Insights
+In this project, I explored a year’s worth of pizza sales data to uncover patterns behind customer behavior, seasonal trends, and product performance. Using Power BI, I built an interactive dashboard that transformed raw transactional data into actionable business insights.
+
+## Diving deeper into product performance:
+
+1. Spicy Italian Pizza generated the highest total revenue, positioning it as the most profitable menu item.
+
+2. Prosciutto & Arugula Pizza achieved the highest quantity sold, reflecting its broad popularity among customers.
+
+3. Pepper Salami Pizza received the most orders overall, showing strong demand across customer segments.
+
+4. Interestingly, the Brie Carre Pizza consistently performed well — contributing significantly to revenue, quantity, and total orders — making it a standout performer across all KPIs.
+
+## 📊 Business Takeaways
+
+1. Through these insights, the business can:
+
+2. Optimize inventory for best-selling pizzas.
+
+3. Focus marketing campaigns during high-performing days and months.
+
+4. Strengthen menu strategy around top-selling products and profitable categories.
+
+5. Align operations and staffing with customer demand trends.
+
 
 In this project, I explored a year’s worth of pizza sales data to uncover patterns behind customer behavior, seasonal trends, and product performance. Using Power BI, I built an interactive dashboard that transformed raw transactional data into actionable business insights.
 
@@ -18,27 +42,6 @@ When it comes to size, the Large pizzas brought in the highest sales revenue, pr
 
 ## 💰 Product-Level Insights
 
-## Diving deeper into product performance:
-
-Spicy Italian Pizza generated the highest total revenue, positioning it as the most profitable menu item.
-
-Prosciutto & Arugula Pizza achieved the highest quantity sold, reflecting its broad popularity among customers.
-
-Pepper Salami Pizza received the most orders overall, showing strong demand across customer segments.
-
-Interestingly, the Brie Carre Pizza consistently performed well — contributing significantly to revenue, quantity, and total orders — making it a standout performer across all KPIs.
-
-## 📊 Business Takeaways
-
-1. Through these insights, the business can:
-
-2. Optimize inventory for best-selling pizzas.
-
-3. Focus marketing campaigns during high-performing days and months.
-
-4. Strengthen menu strategy around top-selling products and profitable categories.
-
-5. Align operations and staffing with customer demand trends.
 
 ## 🧠 Tools & Technologies
 
